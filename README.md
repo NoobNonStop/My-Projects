@@ -1,2 +1,2 @@
-# My-Projects
+# My Front-end Projects
 Creative Gallery
